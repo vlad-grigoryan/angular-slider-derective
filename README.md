@@ -1,4 +1,4 @@
-# Simple AngularJs slide component with costume data
+# Simple AngularJs slide component with custom data
 
 ### First, you need to have node and npm properly installed on the machine.
 
